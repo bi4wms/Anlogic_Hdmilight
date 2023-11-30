@@ -8,4 +8,5 @@
 xilinx相关原版说明
 https://github.com/esar/hdmilight-v2
 
-欢迎熟悉FPGA开发的同学联系我，共同把这个项目持续深入优化，微信号：pinuoelec
+# 欢迎熟悉FPGA开发的同学联系我，共同把这个项目持续深入优化，微信号：pinuoelec
+
